@@ -1,5 +1,5 @@
 language: zh
-vault_path: /Users/shuruoqi/Documents/PaperVault
+vault_path: /Users/shuruoqi/Documents/Repo/PaperVault
 papers_dir: 20_Research/Papers
 research_domains:
   Diffusion Models:
