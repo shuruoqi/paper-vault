@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "2607.11346",
+      "title": "Compile, Then Page: Executable SOP Programs and a Capability-Gated Runtime for Procedural LLM Agents",
+      "domain": "智能体",
+      "source_type": "arxiv",
+      "source_url": "https://arxiv.org/abs/2607.11346",
+      "arxiv_id": "2607.11346",
+      "quality_score": 7.2,
+      "tags": [
+        "论文笔记",
+        "智能体",
+        "arxiv"
+      ],
+      "analyzed": true,
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "2508.02721",
+      "title": "Blueprint First, Model Second: A Framework for Deterministic LLM Workflow",
+      "domain": "智能体",
+      "source_type": "arxiv",
+      "source_url": "https://arxiv.org/abs/2508.02721",
+      "arxiv_id": "2508.02721",
+      "quality_score": 6.6,
+      "tags": [
+        "论文笔记",
+        "智能体",
+        "arxiv"
+      ],
+      "analyzed": true,
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "2602.16708",
+      "title": "Formal Policy Enforcement for Agentic Systems",
+      "domain": "智能体",
+      "source_type": "arxiv",
+      "source_url": "https://arxiv.org/abs/2602.16708",
+      "arxiv_id": "2602.16708",
+      "quality_score": 7.4,
+      "tags": [
+        "论文笔记",
+        "智能体",
+        "arxiv"
+      ],
+      "analyzed": true,
+      "updated": "2026-11-03"
+    }
+  ],
+  "edges": [],
+  "last_updated": "2026-11-03"
+}

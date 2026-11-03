@@ -1,0 +1,122 @@
+language: zh
+vault_path: /Users/shuruoqi/Documents/PaperVault
+papers_dir: 20_Research/Papers
+research_domains:
+  Diffusion Models:
+    keywords:
+    - diffusion
+    - denoising
+    - score-based
+    - DDPM
+    - stable diffusion
+    - latent diffusion
+    - image generation
+    - image synthesis
+    - conditional generation
+    - inpainting
+    - super-resolution
+    - flow matching
+    - SDE
+    - reverse problem
+    - optimal transport
+    arxiv_categories:
+    - cs.CV
+    - cs.LG
+    - eess.IV
+    priority: 4
+  Multimodal & Vision-Language:
+    keywords:
+    - vision-language
+    - multimodal
+    - image-text
+    - visual question answering
+    - cross-modal
+    - CLIP
+    - BLIP
+    - GPT-4V
+    - visual grounding
+    - image captioning
+    - multimodal large language model
+    - MLLM
+    - VLM
+    arxiv_categories:
+    - cs.CV
+    - cs.CL
+    - cs.MM
+    - cs.AI
+    priority: 4
+  Agents & Autonomous Systems:
+    keywords:
+    - agent
+    - multi-agent
+    - orchestration
+    - autonomous
+    - planning
+    - tool use
+    - function calling
+    - agentic
+    - workflow
+    - self-improvement
+    - self-evolving
+    - evolving
+    arxiv_categories:
+    - cs.AI
+    - cs.MA
+    - cs.CL
+    priority: 3
+  Reinforcement Learning:
+    keywords:
+    - reinforcement learning
+    - RLHF
+    - reward model
+    - policy optimization
+    - PPO
+    - DPO
+    - GRPO
+    - preference learning
+    - human feedback
+    - alignment
+    - reward design
+    arxiv_categories:
+    - cs.LG
+    - cs.AI
+    - cs.CL
+    priority: 3
+  Foundation Models & LLM:
+    keywords:
+    - foundation model
+    - large language model
+    - LLM
+    - pre-training
+    - fine-tuning
+    - PEFT
+    - LoRA
+    - adapter
+    - in-context learning
+    - reasoning
+    - chain-of-thought
+    - scaling law
+    arxiv_categories:
+    - cs.CL
+    - cs.AI
+    - cs.LG
+    priority: 3
+  AI Safety & Fairness:
+    keywords:
+    - fairness
+    - bias
+    - robustness
+    - adversarial
+    - interpretability
+    - explainability
+    - uncertainty
+    - calibration
+    - out-of-distribution
+    - trustworthy
+    arxiv_categories:
+    - cs.LG
+    - cs.AI
+    - cs.CY
+    priority: 2
+excluded_keywords:
+- workshop
