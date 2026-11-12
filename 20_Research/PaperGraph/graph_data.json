@@ -47,8 +47,24 @@
       ],
       "analyzed": true,
       "updated": "2026-11-03"
+    },
+    {
+      "id": "2026.acl-long.1625",
+      "title": "Business as Rulesual: A Benchmark and Framework for Business Rule Flow Modeling with LLMs",
+      "domain": "智能体",
+      "source_type": "pdf_url",
+      "source_url": "https://aclanthology.org/2026.acl-long.1625/",
+      "arxiv_id": "",
+      "quality_score": 5.8,
+      "tags": [
+        "论文笔记",
+        "智能体",
+        "pdf_url"
+      ],
+      "analyzed": true,
+      "updated": "2026-11-12"
     }
   ],
   "edges": [],
-  "last_updated": "2026-11-03"
+  "last_updated": "2026-11-12"
 }
